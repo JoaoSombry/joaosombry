@@ -1,6 +1,6 @@
 🍝 SombryDEV:
-  🐘 15 years 
-  💻 Hello, my name is João "Sombry", I am a Developer focused on Java, Js and Python.
+  #🐘 15 years 
+  #💻 Hello, my name is João "Sombry", I am a Developer focused on Java, Js and Python.
 
 
 Skills:
