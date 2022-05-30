@@ -1,7 +1,6 @@
-<h3> 🍕 &nbsp;SombryDEV: </h3>
+<h3> 📌 &nbsp;SombryDEV: </h3>
 
-
-- 👶 15 years
+- 🍕 15 years
 - 💻 Hello, my name is João "Sombry", I am a Developer focused on Java, Js and Python. 
 
 # Skills
