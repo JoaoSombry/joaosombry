@@ -1,18 +1,21 @@
-<h3> 📌 &nbsp;SombryDEV: </h3>
+<h3>&nbsp;João Sombry: </h3>
 
-- 🍕 17 years
-- 💻 Hello, my name is João "Sombry", I am a Developer focused on JavaScript.
+- 💻 I am Entrepreneur and Developer.
+- 💼  I am currently working on [Zafire Cloud](https://zafire.cloud/)
 
-![](https://komarev.com/ghpvc/?username=SombryyDEV&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=JoaoSombry&label=PROFILE+VIEWS)
 
-# Skills
+### Languages and Tools:
 
-![Node JS](https://img.shields.io/badge/NodeJS-6EFF33F?style=for-the-badge&logo=javascript&logoColor=white)
+<img align="left" alt="VSCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+<br />
+<br />
 
-# Editors
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+---
 
 ![Snake animation](https://github.com/LMS5413/LMS5413/blob/output/github-contribution-grid-snake.svg)
