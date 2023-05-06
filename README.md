@@ -1,13 +1,13 @@
 <h3> 📌 &nbsp;SombryDEV: </h3>
 
 - 🍕 17 years
-- 💻 Hello, my name is João "Sombry", I am a Developer focused on Java, Js and Python.
+- 💻 Hello, my name is João "Sombry", I am a Developer focused on JavaScript.
+
 ![](https://komarev.com/ghpvc/?username=SombryyDEV&label=PROFILE+VIEWS)
 
 # Skills
 
 ![Node JS](https://img.shields.io/badge/NodeJS-6EFF33F?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-33B8FF?style=for-the-badge&logo=python&logoColor=white)
 
 
 # Editors
