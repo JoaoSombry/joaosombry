@@ -7,7 +7,6 @@
 
 ![Node JS](https://img.shields.io/badge/NodeJS-6EFF33F?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-33B8FF?style=for-the-badge&logo=python&logoColor=white)
-![image](https://user-images.githubusercontent.com/102634795/160730475-fa8b3c3c-d956-4b28-aa58-09955adc191d.png)
 
 
 # Editors
