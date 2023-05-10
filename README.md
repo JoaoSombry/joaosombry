@@ -1,7 +1,7 @@
 <h3>&nbsp;João Sombry: </h3>
 
 - 💻 I am Entrepreneur and Developer.
-- 💼  I am currently working on [Zafire Cloud](https://zafire.cloud/)
+- 💼  I am currently working on [FastyGroup](https://fastygroup.com/) and [Zafire Cloud](https://zafire.cloud/)
 
 ![](https://komarev.com/ghpvc/?username=JoaoSombry&label=PROFILE+VIEWS)
 
